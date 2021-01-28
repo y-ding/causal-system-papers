@@ -12,7 +12,7 @@ This is a list of materials and resources on causal inference for computer syste
 * [Inferred Models for Dynamic and Sparse Hardware-Software Spaces](https://www.seas.upenn.edu/~leebcc/documents/wu2012-micro.pdf) (MICRO, 2012)
 
 
-## Database Systems
+## Database 
 
 * [Demonstration of Inferring Causality from RelationalDatabases with CaRL](http://www.vldb.org/pvldb/vol13/p2985-kayali.pdf) (VLDB, 2020) 
 
@@ -37,7 +37,7 @@ This is a list of materials and resources on causal inference for computer syste
 * [Causality in Databases](http://sites.computer.org/debull/A10sept/suciu.pdf) (IEEE Data Engineering Bulletin, 2010) 
 
 
-## Networking Systems
+## Networking 
 
 * [Hound: Causal Learning for Datacenter-scale Straggler Diagnosis](https://www.seas.upenn.edu/~leebcc/documents/zheng18-sigmetrics.pdf) (SIGMETRICS, 2018) 
 
@@ -68,18 +68,10 @@ Software](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-33.
 
 * [Causal Testing: Understanding Defects’ Root Causes](https://people.cs.umass.edu/~brun/pubs/pubs/Johnson20icse.pdf) (ICSE, 2020)
 
-* [Configuration Specifics](https://sre.google/workbook/configuration-specifics/) (The Site Reliability Workbook, 2018)
-
-* [Holistic Configuration Management at Facebook](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/008-tang.pdf) (SOSP, 2015)
-
-* [ACMS: The Akamai Configuration Management System](https://www.usenix.org/legacy/publications/library/proceedings/nsdi05/tech/full_papers/sherman/sherman.pdf) (NSDI, 2005)
-
-* [STRIDER: A Black-box, State-based Approach to Change and Configuration Management and Support](https://www.usenix.org/legacy/publications/library/proceedings/lisa03/tech/wang/wang.pdf) (LISA, 2003) - Microsoft CCMS
-
 
 ## Programming Languages
 
-* [PlanAlyzer: assessing threats to the validity of online experiments](https://dl.acm.org/doi/10.1145/3360608) (OOPSLA, 2017)
+* [PlanAlyzer: Assessing Threats to the Validity of Online Experiments](https://dl.acm.org/doi/10.1145/3360608) (OOPSLA, 2017)
 
 * [AsyncClock: Scalable Inference of Asynchronous Event Causality](https://dl.acm.org/doi/abs/10.1145/3093336.3037712) (ASPLOS, 2017)
 
