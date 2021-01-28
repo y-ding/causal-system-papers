@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of materials and resources on causal inference for computer systems, covering the areas of architecture, database, networking, operating systems, software engineering, and programming languages.
+This is a list of materials and resources on causal inference for computer systems, covering the areas of architecture, database, networking, operating systems, programming languages, and software engineering.
 
 
 ## Architecture
@@ -62,12 +62,9 @@ This is a list of materials and resources on causal inference for computer syste
 Software](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-33.pdf) (OSDI, 2012) 
 
 
-## Software Engineering
+## Programming Languages and Software Engineering
 
 * [Causal Testing: Understanding Defects’ Root Causes](https://people.cs.umass.edu/~brun/pubs/pubs/Johnson20icse.pdf) (ICSE, 2020)
-
-
-## Programming Languages
 
 * [PlanAlyzer: Assessing Threats to the Validity of Online Experiments](https://dl.acm.org/doi/10.1145/3360608) (OOPSLA, 2017)
 
