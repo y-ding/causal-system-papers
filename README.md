@@ -43,13 +43,11 @@ This is a list of materials and resources on causal inference for computer syste
 
 * [I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades](https://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf) (NSDI, 2017) 
 
-* [We are Losing Track: a Case for Causal Metadata in Distributed Systems](https://people.mpi-sws.org/~jcmace/papers/fonseca2015hpts.pdf) (HPTS, 2015) 
-
 * [CauseInfer: Automatic and distributed performance diagnosis with hierarchical causality graph in large distributed systems](https://ieeexplore.ieee.org/document/6848128) (INFOCOM, 2014) 
 
-* [Detecting network neutrality violations with causal inference](http://conferences.sigcomm.org/co-next/2009/papers/Tariq.pdf) (CoNEXT, 2009) 
+* [Detecting Network Neutrality Violations with Causal Inference](http://conferences.sigcomm.org/co-next/2009/papers/Tariq.pdf) (CoNEXT, 2009) 
 
-* [Answering what-if deployment and configuration questions with wise](https://dl.acm.org/doi/10.1145/1402946.1402971) (SIGCOMM, 2008) 
+* [Answering What-if Deployment and Configuration Questions with Wise](https://dl.acm.org/doi/10.1145/1402946.1402971) (SIGCOMM, 2008) 
 
 
 ## Operating Systems
