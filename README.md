@@ -9,8 +9,6 @@ This is a list of materials and resources on causal inference for computer syste
 
 * [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://asplos-conference.org/abstracts/asplos21-paper85-extended_abstract.pdf) (ASPLOS, 2021)
 
-* [Inferred Models for Dynamic and Sparse Hardware-Software Spaces](https://www.seas.upenn.edu/~leebcc/documents/wu2012-micro.pdf) (MICRO, 2012)
-
 
 ## Database 
 
@@ -23,8 +21,6 @@ This is a list of materials and resources on causal inference for computer syste
 * [Interventional Fairness: Causal Database Repair for Algorithmic Fairness](https://dl.acm.org/doi/10.1145/3299869.3319901) (SIGMOD, 2019) 
 
 * [Causality and Explanations in Databases](http://www.vldb.org/pvldb/vol7/p1715-meliou.pdf) (VLDB, 2014) 
-
-* [Bolt-on Causal Consistency](https://people.eecs.berkeley.edu/~alig/papers/bolt-on-causal-consistency) (SIGMOD, 2013) 
 
 * [Tracing Data Errors with View-Conditioned Causality](https://people.cs.umass.edu/~ameli/projects/causality/papers/sigmod320-Meliou.pdf) (SIGMOD, 2011) 
 
@@ -58,13 +54,12 @@ This is a list of materials and resources on causal inference for computer syste
 
 * [We are Losing Track: a Case for Causal Metadata in Distributed Systems](https://people.mpi-sws.org/~jcmace/papers/fonseca2015hpts.pdf) (HPTS, 2015) 
 
-* [X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production
-Software](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-33.pdf) (OSDI, 2012) 
-
 
 ## Programming Languages and Software Engineering
 
 * [Causal Testing: Understanding Defects’ Root Causes](https://people.cs.umass.edu/~brun/pubs/pubs/Johnson20icse.pdf) (ICSE, 2020)
+
+* [ML-based Fault Injection for Autonomous Vehicles](https://saurabhjha1.github.io/pubs/DSN2019.pdf) (DSN, 2019)
 
 * [PlanAlyzer: Assessing Threats to the Validity of Online Experiments](https://dl.acm.org/doi/10.1145/3360608) (OOPSLA, 2017)
 
