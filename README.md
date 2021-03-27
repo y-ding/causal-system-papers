@@ -83,6 +83,8 @@ This is a list of materials and resources on causal inference for computer syste
 
 * [EventBreak: Analyzing the Responsiveness of User Interfaces through Performance-Guided Test Generation](http://mp.binaervarianz.de/oopsla2014.pdf) (OOPSLA, 2014)
 
+* [Mitigating the Confounding Effects of Program Dependences for Effective Fault Localization](https://dl.acm.org/doi/abs/10.1145/2025113.2025136) (FSE, 2011)
+
 * [Whodunit? Causal Analysis for Counterexamples](https://www.faculty.ece.vt.edu/chaowang/pubDOC/Wang06Whodunit.pdf) (ATVA, LNCS, 2006)
 
 * [Isolating Cause-Effect Chains from Computer Programs](https://www.cs.cmu.edu/~jlaurent/pdf/papers/ijcai18.pdf) (FSE, 2002)
