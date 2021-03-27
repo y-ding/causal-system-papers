@@ -7,14 +7,14 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Architecture
 
-### Update on 01/28/2021
+#### Update on 01/28/2021
 
 * [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://asplos-conference.org/abstracts/asplos21-paper85-extended_abstract.pdf) (ASPLOS, 2021)
 
 
 ## Database 
 
-### Update on 01/28/2021
+#### Update on 01/28/2021
 
 * [Demonstration of Inferring Causality from RelationalDatabases with CaRL](http://www.vldb.org/pvldb/vol13/p2985-kayali.pdf) (VLDB, 2020) 
 
@@ -39,7 +39,7 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Networking 
 
-### Update on 01/28/2021
+#### Update on 01/28/2021
 
 * [Hound: Causal Learning for Datacenter-scale Straggler Diagnosis](https://www.seas.upenn.edu/~leebcc/documents/zheng18-sigmetrics.pdf) (SIGMETRICS, 2018) 
 
@@ -54,7 +54,7 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Operating Systems
 
-### Update on 01/28/2021
+#### Update on 01/28/2021
 
 * [COZ: Finding Code that Counts with Causal Profiling](https://www.sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/090-curtsinger.pdf) (SOSP, 2015) 
 
@@ -65,7 +65,7 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Programming Languages and Software Engineering
 
-### Update on 03/27/2021
+#### Update on 03/27/2021 (Credits to [James Koppel](http://www.jameskoppel.com/))
 
 * [Indirect and Total Causal Influence](http://www.jameskoppel.com/files/skunkworks/total_causal_influence.pdf) (Skunkworks from James Koppel, 2020)
 
@@ -88,7 +88,7 @@ This is a list of materials and resources on causal inference for computer syste
 * [Isolating Cause-Effect Chains from Computer Programs](https://www.cs.cmu.edu/~jlaurent/pdf/papers/ijcai18.pdf) (FSE, 2002)
 
 
-### Update on 01/28/2021
+#### Update on 01/28/2021
 
 * [Causal Testing: Understanding Defects’ Root Causes](https://people.cs.umass.edu/~brun/pubs/pubs/Johnson20icse.pdf) (ICSE, 2020)
 
