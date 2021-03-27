@@ -7,10 +7,14 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Architecture
 
+### Update on 01/28/2021
+
 * [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://asplos-conference.org/abstracts/asplos21-paper85-extended_abstract.pdf) (ASPLOS, 2021)
 
 
 ## Database 
+
+### Update on 01/28/2021
 
 * [Demonstration of Inferring Causality from RelationalDatabases with CaRL](http://www.vldb.org/pvldb/vol13/p2985-kayali.pdf) (VLDB, 2020) 
 
@@ -35,6 +39,8 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Networking 
 
+### Update on 01/28/2021
+
 * [Hound: Causal Learning for Datacenter-scale Straggler Diagnosis](https://www.seas.upenn.edu/~leebcc/documents/zheng18-sigmetrics.pdf) (SIGMETRICS, 2018) 
 
 * [I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades](https://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf) (NSDI, 2017) 
@@ -48,6 +54,8 @@ This is a list of materials and resources on causal inference for computer syste
 
 ## Operating Systems
 
+### Update on 01/28/2021
+
 * [COZ: Finding Code that Counts with Causal Profiling](https://www.sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/090-curtsinger.pdf) (SOSP, 2015) 
 
 * [Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems](https://people.mpi-sws.org/~jcmace/papers/mace2015pivot.pdf) (SOSP, 2015) 
@@ -56,6 +64,31 @@ This is a list of materials and resources on causal inference for computer syste
 
 
 ## Programming Languages and Software Engineering
+
+### Update on 03/27/2021
+
+* [Indirect and Total Causal Influence](http://www.jameskoppel.com/files/skunkworks/total_causal_influence.pdf) (Skunkworks from James Koppel, 2020)
+
+* [Demystifying Dependence](http://www.jameskoppel.com/files/papers/demystifying_dependence.pdf) (Onward!, 2020)
+
+* [A Language for Counterfactual Generative Models](http://www.jameskoppel.com/files/papers/causal_neurips2019.pdf) (Arxiv, 2019)
+
+* [Counterfactual Resimulation for Causal Analysis of Rule-Based Models](https://www.cs.cmu.edu/~jlaurent/pdf/papers/ijcai18.pdf) (IJCAI, 2018)
+
+
+* [Causality and Responsibility for Formal Verification and Beyond](https://arxiv.org/pdf/1608.07879.pdf) (EPTCS, 2016)
+
+* [Cause Reduction: Delta Debugging, Even without Bugs](https://www.cs.utah.edu/~regehr/papers/mintest.pdf) (Software Testing, Verification and Reliability, 2016)
+
+
+* [EventBreak: Analyzing the Responsiveness of User Interfaces through Performance-Guided Test Generation](http://mp.binaervarianz.de/oopsla2014.pdf) (OOPSLA, 2014)
+
+* [Whodunit? Causal Analysis for Counterexamples](https://www.faculty.ece.vt.edu/chaowang/pubDOC/Wang06Whodunit.pdf) (ATVA, LNCS, 2006)
+
+* [Isolating Cause-Effect Chains from Computer Programs](https://www.cs.cmu.edu/~jlaurent/pdf/papers/ijcai18.pdf) (FSE, 2002)
+
+
+### Update on 01/28/2021
 
 * [Causal Testing: Understanding Defects’ Root Causes](https://people.cs.umass.edu/~brun/pubs/pubs/Johnson20icse.pdf) (ICSE, 2020)
 
